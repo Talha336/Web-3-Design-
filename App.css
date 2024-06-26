@@ -1,0 +1,135 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.bar{
+ 
+  background: linear-gradient(180deg, rgba(68, 52, 76, 0.30) 0%, rgba(154, 105, 157, 0.30) 100%);
+}
+body{
+
+
+background: linear-gradient(180deg, #3C2049 0%, #1C1D22 96.35%);
+
+} 
+
+.section1{
+ 
+  background: linear-gradient(180deg, #3C2049 0%, #1C1D22 96.35%);
+
+}
+/* .appbar{
+  background: linear-gradient(180deg, #3C2049 0%, #1C1D22 96.35%);
+} */
+
+.logo{
+  
+  height: 50px;
+  width: 160px;
+ 
+}
+.sec2{
+  background: linear-gradient(180deg, #1C1D22 0%, #1C1D22 0.01%, #1D1E23 100%);
+
+
+
+
+}
+.acc{
+  background: linear-gradient(180deg, #1C1D22 0%, #3F3E69 100%);
+
+
+}
+
+
+
+
+.sec3{
+  
+}
+img{
+  height: 40px;
+  width: 45px;
+}
+.imagess{
+  height: 100px;
+  width: 100px;
+}
+.sec3{
+ 
+  background: linear-gradient(180deg, #1C1D22 0%, #401A53 100%);
+}
+.brands{
+  margin-top: "30px";
+}
+
+.wallet{
+  margin-top: "20px";
+}
+
+.sec4{
+  background: linear-gradient(359deg, #1D1E23 0.44%, #431A56 99.51%);
+}
+.sec5{
+  background: linear-gradient(359deg, #132047 0.48%, #1E1E25 99.44%);
+}
+
+
+.sec6{
+
+  background: linear-gradient(180deg, #122148 0%, #2F1730 100%);
+}
+
+
+.sec7{
+  background: linear-gradient(0deg, #122148 0%, #2F1730 97.05%);
+}
+
+.sec8{
+  background: linear-gradient(180deg, #122148 0%, #2F1730 100%);
+}
+
+.sec9{
+  background: linear-gradient(180deg, #2C1832 0%, #1C1D22 100%);
+}
+
+.sec10{
+  background: linear-gradient(180deg, #1C1D22 0%, #3F3E69 100%);
+}
+
+.sec11{
+  background: linear-gradient(180deg, #1C1D22 0%, #3F3E69 100%);
+}
+.cardss{
+  background: linear-gradient(355deg, #1C1D22 9.9%, #3F3E69 95.71%);
+
+}
+
+.sec12{
+  background: linear-gradient(359deg, #202127 0.37%, #3E3D67 105.37%);
+}
